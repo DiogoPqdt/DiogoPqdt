@@ -1,12 +1,19 @@
-# Olá! Eu sou Diogo Expedito
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=23&pause=1000&color=808080&center=Verdadeiro&vCenter=Verdadeiro&repeat=Verdadeiro&width=435&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Expedito.;Sou+um+brasileiro+de+44+anos.;Estou+estudando+Ci%C3%AAncia+de+Dados;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+
 
 - 🔭 Hoje trabalho como Ordenador de Despesas 
 - 🌱 Estudo Ciências de Dados
 - 💬 Contate-me no email: aspdiogo346@gmail.com
 
 ## Métricas do Github:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoPqdt&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPqdt&hide=javascript,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiogoPqdt&show_icons=true&count_private=true&hide_border=false&theme=dark" alt="Diogo Ferreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPqdt&layout=compact&hide_border=false&theme=dark" />
+</div>
 
 ## Linguagens e ferramentas que são foco nos estudos:
 <div style="display: inline_block"><br>
@@ -23,6 +30,6 @@
 </div>
 
 
-          
+
   
           
