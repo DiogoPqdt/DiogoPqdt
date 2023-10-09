@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=23&pause=1000&color=808080&center=Verdadeiro&vCenter=Verdadeiro&repeat=Verdadeiro&width=435&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Expedito.;Sou+um+brasileiro+de+44+anos.;Estou+estudando+Ci%C3%AAncia+de+Dados;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=23&pause=1000&color=808080&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Expedito.;Sou+um+brasileiro+de+44+anos.;Estou+estudando+Ci%C3%AAncia+de+Dados.;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
 
 
 - 🔭 Hoje trabalho como Ordenador de Despesas 
